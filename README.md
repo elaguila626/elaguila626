@@ -1,6 +1,6 @@
 ### About Me 👋
 
-Hi there, my name is Edwin Aguilar and I'm currently on the journey to exploring the language of python!
+Hi there, my name is Edwin Aguilar and I'm currently on a journey exploring the language of Python!
 
 I'm looking for open-source projects to contribute to and people to collaborate with. I'm always looking for input, advice or suggestions! Please, reach me here: <a href="edwinlibniaguilar@gmail.com">email</a> 
 
