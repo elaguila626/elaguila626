@@ -8,8 +8,17 @@ I'm looking for open-source projects to contribute to and connect with people to
 
 ### Technologies I'm learning 📚
 #### Software: 
- ![image](https://user-images.githubusercontent.com/100698925/218178972-4e5158b8-0b61-439a-8399-9a648f73047e.png)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff7a1)
  
+#### Front-end:
+![D3.js](https://img.shields.io/badge/-D3&#46;js-333333?style=flat-square&logo=d3.js&logoColor=F9A03C)
+
+#### Back-end:
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+
+#### Editors and Operating Systems:
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
 <!--
 **elaguila626/elaguila626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
