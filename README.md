@@ -18,6 +18,7 @@ I'm looking for open-source projects to contribute to and connect with people to
 
 #### Editors and Operating Systems:
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 <!--
 **elaguila626/elaguila626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
