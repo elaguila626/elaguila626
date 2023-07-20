@@ -2,7 +2,7 @@
 
 ### About Me 👋
 
-Hi there, my name is Edwin Aguilar and I'm currently on a journey to become understand the field of web development and data analytics. 
+Hi there, my name is Edwin Aguilar and I'm currently on a journey to understand the field of data analytics and web development. With a healthcare background (Athletic Therapy/Training), I'm interested in utilizing technology to develop evidence-based solutions for difficult questions.
 
 I'm looking for open-source projects to contribute to and connect with people to collaborate with. I'm always looking for input, advice or suggestions! Please, reach me here: [**email**](mailto:edwinlibniaguilar@gmail.com). 
 
